@@ -3,8 +3,8 @@ package TowerOfHanoi.test.Tower;
 
 /**
  * Implementing the Tower of Hanoi classical algorithm
- * @author maaahad
- *
+ * @author Muhammed Ahad
+ * e-mail: ahad3112@yahoo.com
  */
 
 import TowerOfHanoi.test.Plate.TowerPlate;
