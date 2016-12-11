@@ -2,8 +2,8 @@ package TowerOfHanoi.test;
 
 /**
  * Implementing the Tower of Hanoi classical algorithm
- * @author maaahad
- *
+ * @author Muhammed Ahad
+ * e-mail: ahad3112@yahoo.com
  */
 
 // import package
