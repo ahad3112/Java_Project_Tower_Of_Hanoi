@@ -1,5 +1,10 @@
 package TowerOfHanoi.Graphics;
 
+/**
+ * Implementing the Tower of Hanoi classical algorithm
+ * @author Muhammed Ahad
+ * e-mail: ahad3112@yahoo.com
+ */
 
 import TowerOfHanoi.test.Plate.TowerPlate;
 import javax.swing.*;
