@@ -1,6 +1,12 @@
 package TowerOfHanoi.test.Tower;
 
 
+/**
+ * Implementing the Tower of Hanoi classical algorithm
+ * @author maaahad
+ *
+ */
+
 import TowerOfHanoi.test.Plate.TowerPlate;
 import java.util.*;
 
